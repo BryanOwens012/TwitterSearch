@@ -1,0 +1,1 @@
+This program TwitterSearch.jar searches for all tweets on Twitter that include a certain keyword or phrase. Output goes to stdout (usually Terminal or Command Prompt), so you save the output from stdout, or pipe/append the output to a text file (">" and ">>" operators). Speed varies.
